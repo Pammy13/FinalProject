@@ -1,4 +1,4 @@
-1,Bob Camden,15.00
+1,Bob Camden,16.00
 2,Jill Thomas,11.50
 3,Mary Green,22.75
 4,Gus O'Toole,18.25
